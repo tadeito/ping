@@ -10,3 +10,5 @@ repositorio ejemplo
 
 | columna | columna2
 | una     | tabla
+
+Línea agregada por Chucho
