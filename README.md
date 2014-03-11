@@ -1,7 +1,7 @@
 ping
 ====
 
-repositorio ejemplo
+repositorio ejemplo muy buen ejemplo
 
 * tema uno
 * tema dos
