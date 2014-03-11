@@ -8,8 +8,13 @@ repositorio ejemplo
 * tema tres
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 hola INMEGEN 
 =======
+=======
+Aqui unas cosas.
+
+>>>>>>> 7776244a65469c5097d322de24df1f07010622ce
 
 Otro titulo
 ===========
