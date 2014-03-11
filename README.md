@@ -9,7 +9,7 @@ repositorio ejemplo muy buen ejemplo
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-adios INMEGEN 
+adios INMEGEN adios
 =======
 =======
 Aqui unas cosas.
